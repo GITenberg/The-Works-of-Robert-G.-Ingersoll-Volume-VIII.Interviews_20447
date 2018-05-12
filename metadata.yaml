@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2662
     wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20447#The-Works-of-Robert-G.-Ingersoll-Volume-VIII.Interviews
 gutenberg_issued: '2007-01-25'
 gutenberg_type: Text
 identifiers:
